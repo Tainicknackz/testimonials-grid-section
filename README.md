@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Tainicknackz/testimonials-grid-section](https://github.com/Tainicknackz/testimonials-grid-section)
-- Live Site URL: [magenta-begonia-1a1f01](https://magenta-begonia-1a1f01.netlify.app/)
+- Live Site URL: [silly-sunshine-676615](https://silly-sunshine-676615.netlify.app/)
 
 ## My process
 
