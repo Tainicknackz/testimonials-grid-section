@@ -67,26 +67,31 @@ img {
   background-position: top right 15%;
   background-color: var(--clr-primary-500);
   border-radius: 0.5rem;
+  box-shadow: 2.5rem 3.75rem 3rem -3rem var(--clr-neutral-400);
 }
 
 .box__article-jon {
   background-color: var(--clr-neutral-500);
   border-radius: 0.5rem;
+  box-shadow: 2.5rem 3.75rem 3rem -3rem var(--clr-neutral-400);
 }
 
 .box__article-jean {
   background-color: var(--clr-neutral);
   border-radius: 0.5rem;
-}
-
-.box__article-kira {
-  background-color: var(--clr-neutral);
-  border-radius: 0.5rem;
+  box-shadow: 2.5rem 3.75rem 3rem -3rem var(--clr-neutral-400);
 }
 
 .box__article-pat {
   background-color: var(--clr-neutral-600);
   border-radius: 0.5rem;
+  box-shadow: 2.5rem 3.75rem 3rem -3rem var(--clr-neutral-400);
+}
+
+.box__article-kira {
+  background-color: var(--clr-neutral);
+  border-radius: 0.5rem;
+  box-shadow: 2.5rem 3.75rem 3rem -3rem var(--clr-neutral-400);
 }
 
 .article__items {
